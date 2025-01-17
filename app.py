@@ -25,6 +25,6 @@ with open('model.pkl','rb') as file:
     model=pickle.load(file)
 
 
-if st.botton("Predict "):
+if st.button("Predict "):
     price=model.predict(pred)
     st.write(f'Predicted Price of the car {price}')
