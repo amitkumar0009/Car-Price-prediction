@@ -7,7 +7,7 @@ Car Price Prediction is a **machine learning project** that estimates the price 
 - Predicts car prices based on historical data.  
 - Uses **regression algorithms** for precise estimation.  
 - Data preprocessing and feature engineering for improved accuracy.  
-- Interactive web interface (if applicable) using **Flask/Streamlit**.  
+- Interactive web interface using **Streamlit**.  
 
 ## Technologies Used
 - **Python, Pandas, NumPy, Scikit-Learn**  
